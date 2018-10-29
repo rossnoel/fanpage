@@ -4,7 +4,7 @@ html {
 
 body {
     height: 100%;
-    
+    background-color:pink;
 }
 a {
     text-decoration: none;
@@ -12,8 +12,15 @@ a {
 
 .main {
     height: 100%;
+    background-image: "https://tribwpix.files.wordpress.com/2013/05/pepsi-commercial-5.jpg?quality=85&strip=all";
 }
 .social-image{
     width: 30px;
     margin: 15px;
 }
+.rightPane{
+    images="https://pbs.twimg.com/media/Cy3ULarXEAAu5sL.jpg";}
+    .container{
+        display:flex;
+        
+    }
